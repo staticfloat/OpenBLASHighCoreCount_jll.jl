@@ -1,0 +1,10 @@
+[[OpenBLAS]]
+arch = "x86_64"
+git-tree-sha1 = "6b0b558f873cd2dca85844805064a8a3ab3a3961"
+libc = "glibc"
+libgfortran_version = "4.0.0"
+os = "linux"
+
+    [[OpenBLAS.download]]
+    sha256 = "379643a6dd3485f6a0d5114f54ec62f977f95a3c08f1bba6fa5fd8ad3be9ff69"
+    url = "https://github.com/staticfloat/OpenBLASHighCoreCount_jll.jl/releases/download/OpenBLAS-v0.3.7+9/OpenBLAS.v0.3.7.x86_64-linux-gnu-libgfortran4.tar.gz"
